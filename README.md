@@ -7,4 +7,4 @@ All the images are imported from [unsplash](https://unsplash.com/) and used acco
 
 You can feel free to add more to this small project.
 
-# ThankYou
+# ThankYou!
