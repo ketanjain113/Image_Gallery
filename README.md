@@ -1,6 +1,6 @@
-<img src="8377243.png" align="right" />
-
 # Image-Gallery - HTML & CSS Photo Showcase
+
+![Image_Gallery Preview](8377243.png)
 
 Discover Image-Gallery, a minimalist photo showcase crafted with pure HTML and CSS. Dive into a curated collection of stunning images from Unsplash, and experience an elegant hover effect that reveals each photo's category with a stylish blur animation. Explore this responsive and visually pleasing gallery for an immersive image-browsing experience.
 
